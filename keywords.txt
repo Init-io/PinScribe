@@ -1,0 +1,13 @@
+PinScribe          KEYWORD1
+add                FUNCTION
+set                FUNCTION
+get                FUNCTION
+toggle             FUNCTION
+blink              FUNCTION
+debounce           FUNCTION
+onPress            FUNCTION
+onRelease          FUNCTION
+onDoublePress      FUNCTION
+onLongPress        FUNCTION
+saveState          FUNCTION
+restoreState       FUNCTION
