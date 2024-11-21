@@ -8,7 +8,7 @@
     "PinScribe simplifies GPIO pin state management and event handling for Arduino.",
     "It supports debouncing, long press detection, double press detection, and more."
   ],
-  "category": "Control",
+  "category": "Misc",
   "url": "https://github.com/Init-io/PinScribe",
   "architectures": "avr, sam, samd, esp8266, esp32",
   "dependencies": [],
