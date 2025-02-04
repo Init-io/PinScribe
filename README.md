@@ -1,4 +1,8 @@
 # PinScribe Library
+[![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)]([https://docs.arduino.cc/libraries/doeep/?_gl=1*1n8024i*_up*MQ..*_ga*OTc3MDE5NDYxLjE3Mzg2OTIzNDg.*_ga_NEXN8H46L5*MTczODY5MjM0Ni4xLjEuMTczODY5MjM1My4wLjAuNDU4ODMyODky](https://docs.arduino.cc/libraries/pinscribe/?_gl=1*1h057qp*_up*MQ..*_ga*OTc3MDE5NDYxLjE3Mzg2OTIzNDg.*_ga_NEXN8H46L5*MTczODY5MjM0Ni4xLjEuMTczODY5MjY2OC4wLjAuNDU4ODMyODky))
+![GitHub Release](https://img.shields.io/github/v/release/init-io/PinScribe?label=release)
+[![License](https://img.shields.io/github/license/init-io/PinScribe)](LICENSE)
+
 
 The **PinScribe** library provides an easy and flexible way to manage and interact with GPIO pins on an Arduino. It supports various features such as pin state management, debouncing, and handling input events like button presses, double presses, long presses, and more. The library also allows for saving and restoring pin states, making it useful for persistent pin configurations.
 
